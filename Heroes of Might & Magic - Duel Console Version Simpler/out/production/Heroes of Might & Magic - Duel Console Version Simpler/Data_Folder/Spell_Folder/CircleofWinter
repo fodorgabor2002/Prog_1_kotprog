@@ -1,0 +1,4 @@
+name: Circle of Winter
+cost: 160
+mana: 12
+description: Deal [35 * spellpower] dmg to all unit around the target field. Reduce each unit's speed by one (speed can't be less, then one).

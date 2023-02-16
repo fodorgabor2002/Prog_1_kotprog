@@ -1,0 +1,9 @@
+name: Seraph
+cost: 273
+damage_Thresholds: 50-50
+health: 220
+speed: 5
+initiative: 10
+special_Ability: Flyer, Resurrect Allies
+faction: Haven
+tier: 7

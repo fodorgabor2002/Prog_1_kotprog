@@ -1,0 +1,4 @@
+name: Teleport
+cost: 160
+mana: 10
+description: Teleports the selected friendly unit to an unoccupied field.

@@ -1,0 +1,4 @@
+name: Fireball
+cost: 120
+mana: 9
+description: Deal [spellpower * 20] dmg to a 3x3 field

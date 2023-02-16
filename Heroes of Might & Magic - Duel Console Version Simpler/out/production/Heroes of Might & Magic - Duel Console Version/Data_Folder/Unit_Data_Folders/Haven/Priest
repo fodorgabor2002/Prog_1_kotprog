@@ -1,0 +1,13 @@
+name: Priest
+cost: 80
+damage_Thresholds: 9-12
+health: 80
+speed: 5
+initiative: 10
+special_Ability: Shooter, No Melee Penalty, Caster
+immune_To: None
+faction: Haven
+tier: 5
+shooter_Ammo: 7
+mana: 12
+caster_Spells: Haste, Cleansing

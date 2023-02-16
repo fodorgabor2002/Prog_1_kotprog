@@ -1,0 +1,4 @@
+name: Lightning Bolt
+cost: 60
+mana: 5
+description: Deal [spellpower * 30] dmg to an enemy unit

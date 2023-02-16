@@ -1,0 +1,10 @@
+name: Angel
+cost: 373
+damage_Thresholds: 50-50
+health: 220
+speed: 5
+initiative: 10
+special_Ability: Flyer, Resurrect Allies
+immune_To: None
+faction: Haven
+tier: 7

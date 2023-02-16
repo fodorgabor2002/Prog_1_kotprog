@@ -1,0 +1,9 @@
+name: Inquisitor
+cost: 80
+damage_Thresholds: 9-12
+health: 80
+speed: 5
+initiative: 10
+special_Ability: Shooter, No Melee Penalty
+faction: Haven
+tier: 5

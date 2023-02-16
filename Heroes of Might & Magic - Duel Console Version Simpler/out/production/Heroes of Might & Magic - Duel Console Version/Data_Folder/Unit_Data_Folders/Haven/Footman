@@ -1,0 +1,10 @@
+name: Footman
+cost: 11
+damage_Thresholds: 2-5
+health: 26
+speed: 4
+initiative: 8
+special_Ability: Large Shield, Shield Allies, Enraged, Bash
+immune_To: None
+faction: Haven
+tier: 3

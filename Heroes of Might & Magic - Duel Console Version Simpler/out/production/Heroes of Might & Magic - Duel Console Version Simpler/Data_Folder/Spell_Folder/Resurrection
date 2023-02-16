@@ -1,0 +1,4 @@
+name: Resurrection
+cost: 120
+mana: 6
+description: Resurrects and heals [spellpower * 50] a friendly unit

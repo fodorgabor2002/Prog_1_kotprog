@@ -1,0 +1,10 @@
+name: Cavalier
+cost: 173
+damage_Thresholds: 20-30
+health: 100
+speed: 8
+initiative: 12
+special_Ability: Jousting, Lay Hands
+immune_To: Frenzy
+faction: Haven
+tier: 6

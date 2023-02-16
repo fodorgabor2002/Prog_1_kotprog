@@ -1,0 +1,9 @@
+name: Marksman
+cost: 6
+damage_Thresholds: 2-8
+health: 10
+speed: 4
+initiative: 8
+special_Ability: Shooter
+faction: Haven
+tier: 2

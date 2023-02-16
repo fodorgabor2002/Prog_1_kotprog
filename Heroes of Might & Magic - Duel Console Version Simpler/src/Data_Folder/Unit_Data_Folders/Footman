@@ -1,0 +1,9 @@
+name: Footman
+cost: 11
+damage_Thresholds: 2-5
+health: 26
+speed: 4
+initiative: 8
+special_Ability: Defensive Stance
+faction: Haven
+tier: 3

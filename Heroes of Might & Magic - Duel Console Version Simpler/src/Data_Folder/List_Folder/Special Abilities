@@ -1,0 +1,7 @@
+(done) Shooter - creature has a ranged attack. Shooter cannot use ranged attack when blocked by enemy creature.
+(done) Defensive Stance - If you have waited last turn, the next attack against you will deal only 70% of its damage.
+(done) No Melee Penalty - Shooter has no penalty for damage inflicted during melee attack.
+(done) Resurrect Allies - Resurrects some creatures in an allied stack (dead or not). Archangels cannot resurrect themselves and for every Archangel in the resurrecting stack, they heal/restore 100 hit points (so 10 angels = 1000 Hit Points restored).
+(done) Flyer - This unit can fly over other units.
+
+

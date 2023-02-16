@@ -1,0 +1,14 @@
+Bash - At every attack creature has a chance to STUN the enemy so they won't be able to retaliate and lose initiative.
+Shooter - creature has a ranged attack. When distance to target is longer than half of the battlefield, the target suffers only half the normal damage. Shooter cannot use ranged attack when blocked by enemy creature.
+Scatter Shot - creature can barrage a 3x3 area with multiple arrows, doing half of its normal damage to all creature in that area.
+Large Shield - Creature receives only 50% of damage from all non-magical shooting attacks.
+No Melee Penalty - Shooter has no penalty for damage inflicted during melee attack.
+Shield Allies - All friendly creatures located on neighbouring tiles get only 50% of damage from non-magical shooting attacks.
+Enraged - This creature's Attack increases during combat when any stack of friendly units dies (except resurrected creatures or creatures summoned on battlefield by magic). The increase is proportional to the killed stack relative power in the army.
+Battle Dive (activated ability) - Creature performs delayed air attack on selected tile on the field, causing double damage to any creatures, including friendly ones, which happen to be on the tile at that moment. Following the attack, the creature returns to a randomly selected location on the field.
+Jousting - Creature gets a 5% bonus to damage it inflicts during attack for each tile it covered on the battlefield before the attack.
+Lay Hands - The creature can completely heal one unit from the target friendly stack and dispel all negative magical effects from this stack.
+Resurrect Allies: Resurrects some creatures in an allied stack (dead or not). Archangels cannot resurrect themselves and for every Archangel in the resurrecting stack, they heal/restore 100 hit points (so 10 angels = 1000 Hit Points restored).
+
+
+

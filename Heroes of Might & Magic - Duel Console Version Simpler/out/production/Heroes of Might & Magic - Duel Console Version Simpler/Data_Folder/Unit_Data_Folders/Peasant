@@ -1,0 +1,9 @@
+name: Peasant
+cost: 2
+damage_Thresholds: 1-2
+health: 6
+speed: 4
+initiative: 8
+special_Ability: None
+faction: Haven
+tier: 1

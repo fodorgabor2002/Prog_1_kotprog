@@ -1,0 +1,9 @@
+name: Griffin
+cost: 33
+damage_Thresholds: 5-15
+health: 35
+speed: 7
+initiative: 15
+special_Ability: Unlimited Retaliation, Flyer
+faction: Haven
+tier: 4
